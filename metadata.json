@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Placement Eligibility \u0026 Prediction System",
+  "description": "Dynamic placement readiness scoring, eligibility evaluation, company criteria benchmarking, and student records system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
